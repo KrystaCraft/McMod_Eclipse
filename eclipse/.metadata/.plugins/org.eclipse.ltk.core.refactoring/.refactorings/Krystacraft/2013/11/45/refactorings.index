@@ -1,0 +1,50 @@
+1383786127132	Delete element
+1383786602217	Delete element
+1383786608761	Delete element
+1383787279166	Delete element
+1383787294057	Delete element
+1383787616888	Move compilation unit
+1383787800741	Rename package 'Blocks'
+1383787811263	Rename package 'Items'
+1383787820556	Rename package 'Worldgen'
+1383787899923	Move compilation units
+1383787945642	Rename package 'setup'
+1383787962288	Move compilation unit
+1383787973490	Move compilation unit
+1383787975923	Move compilation unit
+1383788781692	Rename package 'base'
+1383788808134	Rename package 'blocks'
+1383788819353	Rename package 'client'
+1383788828129	Rename package 'items'
+1383788836680	Rename package 'ores'
+1383788846873	Rename package 'worldgen'
+1383788975780	Move compilation unit
+1383788990749	Rename type 'KrystaDust'
+1383789000514	Rename type 'SodalitePickaxe'
+1383789019234	Move compilation unit
+1383789032446	Rename type 'RawSodaliteOre'
+1383789053700	Rename type 'KrystaOre'
+1383789088983	Rename type 'SodaliteOre'
+1383789283841	Rename type 'Core'
+1383789518360	Move compilation unit
+1383789532993	Rename type 'BasicInfo'
+1383789616045	Rename field 'ID'
+1383789670198	Rename field 'NAME'
+1383789688387	Rename field 'VERS'
+1383789716227	Rename field 'CLIENTPROXY'
+1383789733170	Rename field 'COMMONPROXY'
+1383789789981	Move compilation unit
+1383789804311	Move compilation unit
+1383789807820	Delete element
+1383789858788	Rename package 'krystacraft.proxy'
+1383792387054	Copy file
+1383792576358	Delete element
+1383792744543	Delete element
+1383792748443	Copy file
+1383792843694	Rename resource 'mcmod.info'
+1383792848999	Delete element
+1383792855280	Rename resource 'mcmod.info'
+1383792878811	Copy file
+1383792899849	Delete element
+1383792905536	Rename resource 'mcpmod.info'
+1383855987683	Delete element
